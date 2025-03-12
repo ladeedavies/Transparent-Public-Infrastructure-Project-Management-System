@@ -65,6 +65,11 @@ plan:
             path: contracts/contractor-bidding.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: progress-tracking
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/progress-tracking.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: project-proposal
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/project-proposal.clar

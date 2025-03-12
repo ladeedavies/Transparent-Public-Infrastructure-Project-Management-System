@@ -9,3 +9,7 @@ Q
 !contracts/contractor-bidding.clar,8/c/8c24b420b1a2dde193de2b1098c8cc153529b6d8
 P
  tests/contractor-bidding.test.ts,d/f/df3be6f29e87e2c074e9b0ee7d349cdc62b8ab45
+P
+ contracts/progress-tracking.clar,d/7/d7a757655a1978a3aa366b84b916042f9f227172
+O
+tests/progress-tracking.test.ts,3/9/39b4a12093ba89526d9edf86d559ebf1b5ebe41d
